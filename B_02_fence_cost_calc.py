@@ -36,7 +36,7 @@ while Keep_going == "":
     # Display output
     print()
     print(f"perimeter: {perimerter} units")
-    print(f"price: s{price:.2f}")
+    print(f"price: ${price:.2f} ")
 
     # Ask user if they want keep going
     Keep_going = input("please enter to keep going or any key to quit. ")
